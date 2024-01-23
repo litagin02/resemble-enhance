@@ -9,9 +9,9 @@ ptflops==0.7.1.2
 rich==13.7.0
 scipy==1.11.4
 soundfile==0.12.1
-torch==2.1.1
-torchaudio==2.1.1
-torchvision==0.16.1
+torch
+torchaudio
+torchvision
 tqdm==4.66.1
 resampy==0.4.2
 tabulate==0.8.10
